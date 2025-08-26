@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/anshsahu01/anshsahu01/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
